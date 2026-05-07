@@ -209,5 +209,5 @@ For better compatibility:
 ---
 
 ```bash
-Leave a star on the repository
+Discord: mwlexiz
 ```
